@@ -38,4 +38,4 @@ Information Technology Student (Data Mining)
 University of Jazan
 
 ## Visualization
-![Sales Chart](../images/sales_chart.png) 
+![Sales Chart](sales_chart.png) 
