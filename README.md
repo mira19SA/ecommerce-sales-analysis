@@ -37,5 +37,5 @@ Mira
 Information Technology Student (Data Mining)
 University of Jazan
 
-## Visualization
+## Data Visualization Output
 ![Sales Chart](sales_chart.png) 
